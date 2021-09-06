@@ -5,3 +5,6 @@ How to play->
 2)If your no is greater than the choosen no(computer generated no) then th too high will be display similary too low for lower number.
 3)Every time you choose a wrong no your score will be deducted by 1
 4)When you choose the correct no the display changes and highscore will be set as a current score
+
+
+Play at -->https://guess-my-number-90s.netlify.app/
